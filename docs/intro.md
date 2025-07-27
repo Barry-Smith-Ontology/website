@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: About Me
+slug: /
 ---
 
 <div style={{
