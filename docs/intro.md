@@ -11,7 +11,7 @@ slug: /
   marginBottom: '0rem'
 }}>
 <img 
-  src="/img/barry.avif" 
+  src="/website/img/barry.avif" 
   alt="Banner Image" 
   style={{
     maxWidth: '300px',
