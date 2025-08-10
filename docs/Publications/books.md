@@ -186,3 +186,5 @@ sidebar_position: 3
   ))}
 </div>
 
+[The Hype Cycle: Uppers and Downers in our Bipolar Culture](/HypeCycle.pdf) (Arnold Schelsky)
+
